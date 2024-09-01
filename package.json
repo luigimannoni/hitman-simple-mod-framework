@@ -1,6 +1,6 @@
 {
   "name": "simple-mod-framework",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "description": "",
   "main": "compiled/main.js",
   "dependencies": {
